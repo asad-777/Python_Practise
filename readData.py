@@ -25,3 +25,5 @@
 # with open("randomData.txt" ,'r') as x:
 #     content = x.read()
 #     print(content)
+
+# learn csv files
